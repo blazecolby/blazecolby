@@ -1,17 +1,27 @@
-### Hi there 👋
+# Hi, I'm Blaze 👋
+
+I'm a passionate software engineer with experience in various web technologies and frameworks. I love creating elegant solutions to challenging problems, and I'm always eager to learn and grow.
 
 ![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true&show_icons=true&theme=dark)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-![GitHub followers](https://img.shields.io/github/followers/blazecolby?style=social)
-
-
-# Hi, I'm [Your Name] 👋
-
-I'm a passionate software engineer with experience in various web technologies and frameworks. I love creating elegant solutions to challenging problems, and I'm always eager to learn and grow.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Skills and Technologies
 
@@ -19,36 +29,17 @@ I'm a passionate software engineer with experience in various web technologies a
 
 - React.js
 - Next.js
-- Angular
-- Vue.js
-- Svelte
-- Redux
-- MobX
-- Vuex
 
 ### Backend
 
 - Django
 - Flask
-- Express.js
-- FastAPI
-- Ruby on Rails
-- Laravel
-- Spring Boot
 
 ### Programming Languages
 
 - JavaScript
 - TypeScript
 - Python
-- Ruby
-- Java
-- PHP
-- C#
-- Kotlin
-- Swift
-- Go
-- Rust
 
 ### Machine Learning
 
@@ -70,10 +61,7 @@ I'm a passionate software engineer with experience in various web technologies a
   - PostgreSQL
   - MySQL
 - NoSQL
-  - MongoDB
   - Redis
-  - Cassandra
-  - DynamoDB
 - ORM
 
 ### Cloud Services
@@ -85,76 +73,42 @@ I'm a passionate software engineer with experience in various web technologies a
 
 - REST
 - GraphQL
-- gRPC
-- WebSockets
 
 ### Authentication and Authorization
 
 - OAuth
 - JWT
-- OpenID Connect
 
 ### CI/CD
 
-- Jenkins
-- GitLab CI/CD
 - GitHub Actions
-- CircleCI
-- Travis CI
-- Azure DevOps
 
 ### Containerization
 
 - Docker
-- Kubernetes
-- Docker Compose
 
 ### Version Control
 
 - Git
-- GitFlow
-- SVN
-- Mercurial
 
 ### Testing
 
-- Jest
-- Mocha
-- Jasmine
-- Cypress
 - Selenium
-- Pytest
-- JUnit
-
-### Build Tools
-
-- Webpack
-- Gulp
-- Grunt
-- Parcel
-- Rollup
-- Babel
 
 ### CSS Preprocessors
 
 - Sass
-- Less
-- Stylus
 
 ### CSS Frameworks
 
 - Bootstrap
 - Tailwind CSS
 - Material-UI
-- Bulma
-- Semantic UI
 
 ### Code Quality
 
 - ESLint
 - Prettier
-- Stylelint
-- SonarQube
 - PyLint
 - Flake8
 
@@ -163,44 +117,19 @@ I'm a passionate software engineer with experience in various web technologies a
 - Agile
 - Scrum
 - Kanban
-- Jira
 - Trello
-- Asana
-- GitHub Projects
 
 ### Web Security
 
-- OWASP Top Ten
 - CORS
-- CSP
-- XSS
 - CSRF
-
-### Accessibility
-
-- ARIA
-- WCAG
-
-### Performance Optimization
-
-- PageSpeed
-- Lighthouse
-- Web Workers
-- Service Workers
-- Progressive Web Apps (PWA)
 
 ### Design
 
 - Figma
 - Adobe XD
-- Sketch
-- InVision
-- Balsamiq
-- Proto.io
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/yourusername/)
-[Twitter](https://twitter.com/yourusername)
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/blaze-rogers/)
 
