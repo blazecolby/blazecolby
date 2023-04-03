@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true)
+![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true&show_icons=true)
 
 
 <!--
