@@ -2,7 +2,7 @@
 
 ![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true&show_icons=true&theme=dark)
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
 
 
 ![GitHub followers](https://img.shields.io/github/followers/blazecolby?style=social)
