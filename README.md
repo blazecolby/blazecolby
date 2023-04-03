@@ -22,112 +22,25 @@ I'm a passionate software engineer with experience in various web technologies a
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-
-## Skills and Technologies
-
-### Frontend
-
-- React.js
-- Next.js
-
-### Backend
-
-- Django
-- Flask
-
-### Programming Languages
-
-- JavaScript
-- TypeScript
-- Python
-
-### Machine Learning
-
-- Scikit
-- TensorFlow
-
-### Package Managers
-
-- npm
-- Yarn
-
-### Shell Scripting
-
-- Bash
-
-### Databases
-
-- Relational DB
-  - PostgreSQL
-  - MySQL
-- NoSQL
-  - Redis
-- ORM
-
-### Cloud Services
-
-- AWS
-- GCP
-
-### API Design
-
-- REST
-- GraphQL
-
-### Authentication and Authorization
-
-- OAuth
-- JWT
-
-### CI/CD
-
-- GitHub Actions
-
-### Containerization
-
-- Docker
-
-### Version Control
-
-- Git
-
-### Testing
-
-- Selenium
-
-### CSS Preprocessors
-
-- Sass
-
-### CSS Frameworks
-
-- Bootstrap
-- Tailwind CSS
-- Material-UI
-
-### Code Quality
-
-- ESLint
-- Prettier
-- PyLint
-- Flake8
-
-### Project Management
-
-- Agile
-- Scrum
-- Kanban
-- Trello
-
-### Web Security
-
-- CORS
-- CSRF
-
-### Design
-
-- Figma
-- Adobe XD
+![OAuth](https://img.shields.io/badge/OAuth-3C4E7C-2.0?style=for-the-badge&logo=oauth&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![PyLint](https://img.shields.io/badge/PyLint-4B8EAD?style=for-the-badge&logo=python&logoColor=white)
+![Flake8](https://img.shields.io/badge/Flake8-4A63F6?style=for-the-badge&logo=python&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-37C5F6?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-5177C9?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-3399FF?style=for-the-badge&logo=kanban&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ## Connect with me
 
