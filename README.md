@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![YOUR_GITHUB_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby)
+![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true)
 
 
 <!--
