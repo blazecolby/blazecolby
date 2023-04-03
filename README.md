@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazecolby&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazecolby&layout=compact)](https://github.com/blazecolby/github-readme-stats)
+![GitHub followers](https://img.shields.io/github/followers/blazecolby?style=social)
+
 
 
 <!--
