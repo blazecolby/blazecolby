@@ -4,7 +4,7 @@ I'm a passionate software engineer with experience in various web technologies a
 
 ## Connect with me
 
-👨🏼‍💼[LinkedIn](https://www.linkedin.com/in/blaze-rogers/)
-🏡[blazerogers.com](httpsL//www.blazerogers.com)
-🐦[X.com](https://www.twitter.com/blazecolby)
+👨🏼‍💼[LinkedIn](https://www.linkedin.com/in/blaze-rogers/)  
+🏡[blazerogers.com](httpsL//www.blazerogers.com)  
+🐦[X.com](https://www.twitter.com/blazecolby)  
 
