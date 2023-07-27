@@ -1,6 +1,6 @@
-# Hi, I'm Blaze 👋
+# What I'm Up To 👋
 
-I'm a passionate software engineer with experience in various web technologies and frameworks. I love creating elegant solutions to challenging problems, and I'm always eager to learn and grow.
+Currently technical lead at Rift Valley build an N-of-1 solution to reduce burnout and increase engagement among healthcare workers. When I'm not programming you can find me thinking about programming.
 
 ## Connect with me
 
