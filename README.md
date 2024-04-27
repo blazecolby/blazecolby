@@ -1,6 +1,6 @@
 # What I'm Up To 👋
 
-Currently technical lead at Rift Valley build an N-of-1 solution to reduce burnout and increase engagement among healthcare workers. When I'm not programming you can find me thinking about programming.
+Currently tech lead at The Rift Valley, building an N-of-1 solution to reduce burnout and increase engagement among healthcare workers. When I'm not programming you can find me writing music, cooking(eating), or learning spanish.
 
 ## Connect with me
 
